@@ -11,7 +11,7 @@ A comprehensive Python + SQLite bike rental system demonstrating OOP principles,
 
 ##🌟 Requirements
 - Python 3.6+
-- SQLite (built-in)
+- SQLite Library in Python (built-in)
 
 ##🌟 Usage
 ```bash
